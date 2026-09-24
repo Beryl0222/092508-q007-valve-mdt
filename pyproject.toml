@@ -1,0 +1,6 @@
+[project]
+name = "valve-mdt"
+version = "0.1.0"
+description = "复杂瓣膜介入合议的服务端领域基础"
+requires-python = ">=3.11"
+dependencies = []
